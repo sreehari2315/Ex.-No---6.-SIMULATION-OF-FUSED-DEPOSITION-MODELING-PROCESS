@@ -16,14 +16,14 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
+![63](https://github.com/sreehari2315/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139331590/e18329a3-36ae-4055-b234-4e0a80a4c6eb)
+![62](https://github.com/sreehari2315/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139331590/44852007-37a2-4371-9e28-704e7cbaf2d2)
+![61](https://github.com/sreehari2315/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/139331590/35bb0347-a851-41a0-ab67-f113232b201e)
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Sree Hari K
+### Register Number:23000908
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
